@@ -25,3 +25,4 @@
 - eog图像查看器
 - baobab磁盘使用情况分析器
 - cheese茄子
+- dconf-editor Dconf编辑器
