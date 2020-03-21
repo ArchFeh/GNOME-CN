@@ -24,3 +24,4 @@
 - gnome-terminal终端
 - eog图像查看器
 - baobab磁盘使用情况分析器
+- cheese茄子
