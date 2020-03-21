@@ -22,3 +22,4 @@
 - polari IRC客户端
 - gnome-shell-extensions
 - gnome-terminal终端
+- eog图片查看器
