@@ -9,3 +9,16 @@
 `sudo bash ./install.sh` 安装
 
 `sudo bash ./install.sh r` 恢复
+
+## 已补全清单
+- gedit 文字编辑器
+- gnome-shell顶栏
+- gnome-tweaks优化
+- gnome-control-center控制中心
+- gnome-software软件
+- nautilus文件管理器
+- gnome-disk-utility磁盘工具
+- gnome-system-monitor系统监视器
+- polari IRC客户端
+- gnome-shell-extensions
+- gnome-terminal终端
