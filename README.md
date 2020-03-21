@@ -27,3 +27,4 @@
 - cheese茄子
 - dconf-editor Dconf编辑器
 - file-roller归档管理器
+- gnome-calendar日历
