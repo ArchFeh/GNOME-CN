@@ -5,8 +5,7 @@ SRC_DIR=${REPO_DIR}/src/
 
 ROOT_UID=0
 if [ "$UID" -eq "$ROOT_UID" ];then
-	#DEST_DIR="/usr/share/locale/zh_CN/LC_MESSAGES"
-	DEST_DIR="/home/archfeh/test/share/"
+	DEST_DIR="/usr/share/locale/zh_CN/LC_MESSAGES"
 else
 	echo "需要root或sudo权限"
 fi
