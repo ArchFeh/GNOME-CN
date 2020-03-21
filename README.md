@@ -8,4 +8,4 @@
 ## 用法
 `sudo bash ./install.sh` 安装
 
-`sudo bash ./install.sh r1` 恢复
+`sudo bash ./install.sh r` 恢复
