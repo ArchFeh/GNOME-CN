@@ -29,3 +29,18 @@
 - file-roller归档管理器
 - gnome-calendar日历
 - gnome-clocks时钟
+- gnome-documents文档查看器
+- gnome-font-viewer字体查看器
+- gnome-initial-setup欢迎界面
+- gnome-keyring密码锁
+- gnome-logs日至
+- gnome-maps地图
+- gnomt-nettool网络工具
+- gnome-online-accounts在线账户
+- gnome-screenshot截图
+- gnome-session会话
+- gnome-shell-extensions扩展
+- gnome-todo To Do待办事项
+- gnome-weather天气
+- libgweather-locations地区库
+- yelp帮助
