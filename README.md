@@ -33,7 +33,7 @@
 - gnome-font-viewer字体查看器
 - gnome-initial-setup欢迎界面
 - gnome-keyring密码锁
-- gnome-logs日至
+- gnome-logs日志
 - gnome-maps地图
 - gnomt-nettool网络工具
 - gnome-online-accounts在线账户
